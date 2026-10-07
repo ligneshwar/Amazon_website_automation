@@ -14,8 +14,7 @@ A Python Selenium WebDriver project for automating product search, cart manageme
 - Manually enter the security verification code
 
 ## Code
-```
-from selenium import webdriver
+```from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.support.ui import WebDriverWait
@@ -180,7 +179,5 @@ driver.quit()
 ```
 ## Output
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b075bb8a-4f34-4c88-88ab-198ce086386d" />
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/97e5b4d9-1a6b-46ac-ad0b-6ee8c4f01476" />
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7b201823-3583-40ec-aeaa-40152d033372" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e79cb05d-98f7-41f5-8f19-c0c0c7b72b69" />
 
